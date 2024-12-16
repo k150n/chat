@@ -1,16 +1,17 @@
-# chat
+# ПР13-14 Гоман Кирилл ЭФБО-02-22
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/0e6c0001-eecb-4a65-adcc-2df96dc815f1)
+
+![image](https://github.com/user-attachments/assets/53407374-eccf-445b-b28a-9ad13fdec863)
+
+![image](https://github.com/user-attachments/assets/91c6a43f-8e04-4c23-a314-ae5da56bce35)
+
+![image](https://github.com/user-attachments/assets/99b4111d-c0c6-4442-a403-be8f9c3b2415)
+
+![image](https://github.com/user-attachments/assets/b4269134-e3e1-443c-9c3c-3eb3279abb70)
+
